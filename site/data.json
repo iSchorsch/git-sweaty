@@ -46510,6 +46510,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17685623522",
       "year": 2026
+    },
+    {
+      "date": "2026-03-12",
+      "hour": 13,
+      "name": "Zwift - Three Step Sisters in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17697107044",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -91198,6 +91207,15 @@
           "distance": 28508.1,
           "elevation_gain": 375.0,
           "moving_time": 3697.0
+        },
+        "2026-03-12": {
+          "activity_ids": [
+            "17697107044"
+          ],
+          "count": 1,
+          "distance": 41855.7,
+          "elevation_gain": 589.0,
+          "moving_time": 5578.0
         }
       },
       "Walk": {
@@ -91366,7 +91384,7 @@
       }
     }
   },
-  "generated_at": "2026-03-12T05:42:44.933503+00:00",
+  "generated_at": "2026-03-12T15:45:33.795270+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",

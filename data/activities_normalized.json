@@ -67181,5 +67181,18 @@
     "start_date_local": "2026-03-11T14:36:34Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 41855.7,
+    "elevation_gain": 589.0,
+    "id": "17697107044",
+    "moving_time": 5578.0,
+    "name": "Zwift - Three Step Sisters in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-12T13:27:29Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
