@@ -67194,5 +67194,18 @@
     "start_date_local": "2026-03-12T13:27:29Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-13",
+    "distance": 33649.8,
+    "elevation_gain": 284.0,
+    "id": "17706764670",
+    "moving_time": 3935.0,
+    "name": "Zwift - Group Ride: DWGZ Friday Surprise! (C)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-13T11:30:37Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

@@ -46519,6 +46519,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17697107044",
       "year": 2026
+    },
+    {
+      "date": "2026-03-13",
+      "hour": 11,
+      "name": "Zwift - Group Ride: DWGZ Friday Surprise! (C)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17706764670",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -91216,6 +91225,15 @@
           "distance": 41855.7,
           "elevation_gain": 589.0,
           "moving_time": 5578.0
+        },
+        "2026-03-13": {
+          "activity_ids": [
+            "17706764670"
+          ],
+          "count": 1,
+          "distance": 33649.8,
+          "elevation_gain": 284.0,
+          "moving_time": 3935.0
         }
       },
       "Walk": {
@@ -91384,7 +91402,7 @@
       }
     }
   },
-  "generated_at": "2026-03-12T15:45:33.795270+00:00",
+  "generated_at": "2026-03-13T15:32:59.807255+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
