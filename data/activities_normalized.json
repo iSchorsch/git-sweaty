@@ -67233,5 +67233,18 @@
     "start_date_local": "2026-03-14T15:11:31Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 31515.8,
+    "elevation_gain": 226.0,
+    "id": "17729961409",
+    "moving_time": 3615.0,
+    "name": "Zwift - Richmond Rollercoaster in Richmond",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-15T11:49:21Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
