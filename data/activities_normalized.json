@@ -67246,5 +67246,31 @@
     "start_date_local": "2026-03-15T11:49:21Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 4995.5,
+    "elevation_gain": 94.0,
+    "id": "17733237347",
+    "moving_time": 4026.0,
+    "name": "Spaziergang am Nachmittag",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-15T15:15:48Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 34213.6,
+    "elevation_gain": 147.0,
+    "id": "17741630293",
+    "moving_time": 3709.0,
+    "name": "Zwift - Flat Out Fast in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-16T12:42:07Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
