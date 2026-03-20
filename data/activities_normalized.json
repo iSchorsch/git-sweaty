@@ -67318,11 +67318,24 @@
     "elevation_gain": 114.0,
     "id": "17779911651",
     "moving_time": 3777.0,
-    "name": "Afternoon Ride",
+    "name": "Afternoon Ride Stadler & Bauhaus",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-03-19T13:42:22Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 29506.4,
+    "elevation_gain": 300.0,
+    "id": "17791260056",
+    "moving_time": 3623.0,
+    "name": "Zwift - Empire Elevation in New York",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-20T13:53:23Z",
+    "type": "VirtualRide",
     "year": 2026
   }
 ]
