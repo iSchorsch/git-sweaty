@@ -46618,6 +46618,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17791260056",
       "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 11,
+      "name": "Zwift - Scotland Smash in Scotland",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17801095214",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -91405,6 +91414,15 @@
           "distance": 29506.4,
           "elevation_gain": 300.0,
           "moving_time": 3623.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "17801095214"
+          ],
+          "count": 1,
+          "distance": 32132.7,
+          "elevation_gain": 287.0,
+          "moving_time": 3609.0
         }
       },
       "Walk": {
@@ -91582,7 +91600,7 @@
       }
     }
   },
-  "generated_at": "2026-03-20T15:33:21.155686+00:00",
+  "generated_at": "2026-03-21T15:15:52.147287+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
