@@ -67363,5 +67363,31 @@
     "start_date_local": "2026-03-22T12:23:41Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 2912.7,
+    "elevation_gain": 13.4,
+    "id": "17828703586",
+    "moving_time": 2404.0,
+    "name": "Spaziergang am Nachmittag",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-22T15:57:17Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 34510.1,
+    "elevation_gain": 109.0,
+    "id": "17828669879",
+    "moving_time": 3623.0,
+    "name": "Zwift - Watopia's Waistband in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-23T15:24:40Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
