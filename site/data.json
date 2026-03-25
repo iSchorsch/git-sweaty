@@ -46656,12 +46656,39 @@
       "year": 2026
     },
     {
+      "date": "2026-03-23",
+      "hour": 17,
+      "name": "Spaziergang am Nachmittag",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17852920869",
+      "year": 2026
+    },
+    {
       "date": "2026-03-24",
       "hour": 14,
       "name": "Zwift - Ocean Lava Cliffside Loop in Watopia",
       "subtype": "VirtualRide",
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17840752483",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 10,
+      "name": "Spaziergang am Morgen",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17852921035",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-25",
+      "hour": 11,
+      "name": "Zwift - Flat Out Fast in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17852090947",
       "year": 2026
     }
   ],
@@ -91486,6 +91513,15 @@
           "distance": 30374.9,
           "elevation_gain": 279.0,
           "moving_time": 3616.0
+        },
+        "2026-03-25": {
+          "activity_ids": [
+            "17852090947"
+          ],
+          "count": 1,
+          "distance": 33781.4,
+          "elevation_gain": 135.0,
+          "moving_time": 3610.0
         }
       },
       "Walk": {
@@ -91668,11 +91704,29 @@
           "distance": 2912.7,
           "elevation_gain": 13.4,
           "moving_time": 2404.0
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "17852920869"
+          ],
+          "count": 1,
+          "distance": 2649.0,
+          "elevation_gain": 22.2,
+          "moving_time": 2421.0
+        },
+        "2026-03-24": {
+          "activity_ids": [
+            "17852921035"
+          ],
+          "count": 1,
+          "distance": 2687.3,
+          "elevation_gain": 83.0,
+          "moving_time": 2160.0
         }
       }
     }
   },
-  "generated_at": "2026-03-24T15:55:21.315958+00:00",
+  "generated_at": "2026-03-25T15:58:52.236886+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
