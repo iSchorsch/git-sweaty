@@ -67441,5 +67441,44 @@
     "start_date_local": "2026-03-25T11:39:45Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 33216.8,
+    "elevation_gain": 285.0,
+    "id": "17866919834",
+    "moving_time": 3606.0,
+    "name": "Zwift - TT: Stage 6a: Zwift Games: Epiloch",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-26T16:22:08Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 7191.4,
+    "elevation_gain": 29.0,
+    "id": "17874125034",
+    "moving_time": 1483.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-27T08:44:41Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 28874.5,
+    "elevation_gain": 282.0,
+    "id": "17875961355",
+    "moving_time": 3608.0,
+    "name": "Zwift - Mayan San Remo in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-27T12:05:11Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

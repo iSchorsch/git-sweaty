@@ -46690,6 +46690,33 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17852090947",
       "year": 2026
+    },
+    {
+      "date": "2026-03-26",
+      "hour": 16,
+      "name": "Zwift - TT: Stage 6a: Zwift Games: Epiloch",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17866919834",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-27",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17874125034",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-27",
+      "hour": 12,
+      "name": "Zwift - Mayan San Remo in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17875961355",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -91151,6 +91178,15 @@
           "distance": 20620.8,
           "elevation_gain": 114.0,
           "moving_time": 3777.0
+        },
+        "2026-03-27": {
+          "activity_ids": [
+            "17874125034"
+          ],
+          "count": 1,
+          "distance": 7191.4,
+          "elevation_gain": 29.0,
+          "moving_time": 1483.0
         }
       },
       "VirtualRide": {
@@ -91522,6 +91558,24 @@
           "distance": 33781.4,
           "elevation_gain": 135.0,
           "moving_time": 3610.0
+        },
+        "2026-03-26": {
+          "activity_ids": [
+            "17866919834"
+          ],
+          "count": 1,
+          "distance": 33216.8,
+          "elevation_gain": 285.0,
+          "moving_time": 3606.0
+        },
+        "2026-03-27": {
+          "activity_ids": [
+            "17875961355"
+          ],
+          "count": 1,
+          "distance": 28874.5,
+          "elevation_gain": 282.0,
+          "moving_time": 3608.0
         }
       },
       "Walk": {
@@ -91726,7 +91780,7 @@
       }
     }
   },
-  "generated_at": "2026-03-26T16:01:48.058909+00:00",
+  "generated_at": "2026-03-27T15:40:51.646700+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
