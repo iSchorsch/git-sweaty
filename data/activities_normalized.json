@@ -67443,6 +67443,19 @@
     "year": 2026
   },
   {
+    "date": "2026-03-25",
+    "distance": 2500.1,
+    "elevation_gain": 15.6,
+    "id": "17884541192",
+    "moving_time": 2120.0,
+    "name": "Spaziergang am Nachmittag",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-25T15:43:32Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
     "date": "2026-03-26",
     "distance": 33216.8,
     "elevation_gain": 285.0,
@@ -67478,6 +67491,19 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-03-27T12:05:11Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 32807.2,
+    "elevation_gain": 194.0,
+    "id": "17886340334",
+    "moving_time": 3607.0,
+    "name": "Zwift - Southern Coast Cruise in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-28T10:52:10Z",
     "type": "VirtualRide",
     "year": 2026
   }

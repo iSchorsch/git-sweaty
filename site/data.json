@@ -46692,6 +46692,15 @@
       "year": 2026
     },
     {
+      "date": "2026-03-25",
+      "hour": 15,
+      "name": "Spaziergang am Nachmittag",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17884541192",
+      "year": 2026
+    },
+    {
       "date": "2026-03-26",
       "hour": 16,
       "name": "Zwift - TT: Stage 6a: Zwift Games: Epiloch",
@@ -46716,6 +46725,15 @@
       "subtype": "VirtualRide",
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17875961355",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-28",
+      "hour": 10,
+      "name": "Zwift - Southern Coast Cruise in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17886340334",
       "year": 2026
     }
   ],
@@ -91576,6 +91594,15 @@
           "distance": 28874.5,
           "elevation_gain": 282.0,
           "moving_time": 3608.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17886340334"
+          ],
+          "count": 1,
+          "distance": 32807.2,
+          "elevation_gain": 194.0,
+          "moving_time": 3607.0
         }
       },
       "Walk": {
@@ -91776,11 +91803,20 @@
           "distance": 2687.3,
           "elevation_gain": 83.0,
           "moving_time": 2160.0
+        },
+        "2026-03-25": {
+          "activity_ids": [
+            "17884541192"
+          ],
+          "count": 1,
+          "distance": 2500.1,
+          "elevation_gain": 15.6,
+          "moving_time": 2120.0
         }
       }
     }
   },
-  "generated_at": "2026-03-27T15:40:51.646700+00:00",
+  "generated_at": "2026-03-28T15:20:02.190632+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
