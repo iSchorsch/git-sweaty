@@ -46737,12 +46737,30 @@
       "year": 2026
     },
     {
+      "date": "2026-03-28",
+      "hour": 16,
+      "name": "Spaziergang am Nachmittag",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17963150698",
+      "year": 2026
+    },
+    {
       "date": "2026-03-29",
       "hour": 12,
       "name": "Zwift - Sand And Sequoias in Watopia",
       "subtype": "VirtualRide",
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17899250400",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-29",
+      "hour": 16,
+      "name": "Spaziergang am Nachmittag",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17963150181",
       "year": 2026
     },
     {
@@ -46788,6 +46806,24 @@
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/17950160387",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-03",
+      "hour": 10,
+      "name": "Zwift - Anaerobic Capacity Hills #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17959474781",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-03",
+      "hour": 15,
+      "name": "Spaziergang am Nachmittag",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17963149101",
       "year": 2026
     }
   ],
@@ -91703,6 +91739,15 @@
           "distance": 37010.3,
           "elevation_gain": 227.0,
           "moving_time": 3796.0
+        },
+        "2026-04-03": {
+          "activity_ids": [
+            "17959474781"
+          ],
+          "count": 1,
+          "distance": 29025.4,
+          "elevation_gain": 263.0,
+          "moving_time": 3654.0
         }
       },
       "Walk": {
@@ -91912,11 +91957,38 @@
           "distance": 2500.1,
           "elevation_gain": 15.6,
           "moving_time": 2120.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17963150698"
+          ],
+          "count": 1,
+          "distance": 3058.2,
+          "elevation_gain": 26.4,
+          "moving_time": 2558.0
+        },
+        "2026-03-29": {
+          "activity_ids": [
+            "17963150181"
+          ],
+          "count": 1,
+          "distance": 2496.6,
+          "elevation_gain": 13.6,
+          "moving_time": 2055.0
+        },
+        "2026-04-03": {
+          "activity_ids": [
+            "17963149101"
+          ],
+          "count": 1,
+          "distance": 2529.4,
+          "elevation_gain": 26.8,
+          "moving_time": 2136.0
         }
       }
     }
   },
-  "generated_at": "2026-04-02T15:48:45.585482+00:00",
+  "generated_at": "2026-04-03T15:32:22.200467+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
