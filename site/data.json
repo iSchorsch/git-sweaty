@@ -46825,6 +46825,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/17963149101",
       "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 13,
+      "name": "Zwift - Pacer Group Ride with Coco",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17973934197",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -91748,6 +91757,15 @@
           "distance": 29025.4,
           "elevation_gain": 263.0,
           "moving_time": 3654.0
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            "17973934197"
+          ],
+          "count": 1,
+          "distance": 34672.7,
+          "elevation_gain": 255.0,
+          "moving_time": 3624.0
         }
       },
       "Walk": {
@@ -91988,7 +92006,7 @@
       }
     }
   },
-  "generated_at": "2026-04-03T15:32:22.200467+00:00",
+  "generated_at": "2026-04-04T15:20:56.488436+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
