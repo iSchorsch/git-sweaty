@@ -67649,5 +67649,18 @@
     "start_date_local": "2026-04-04T13:08:20Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 54848.4,
+    "elevation_gain": 135.0,
+    "id": "17985345887",
+    "moving_time": 6794.0,
+    "name": "OstersonntagsRunde",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-05T10:21:31Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
