@@ -46906,6 +46906,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18053281721",
       "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 13,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18071456943",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 12,
+      "name": "Zwift - Going Coastal in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18078572647",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -91467,6 +91485,15 @@
           "distance": 4392.0,
           "elevation_gain": 14.0,
           "moving_time": 830.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18071456943"
+          ],
+          "count": 1,
+          "distance": 42510.0,
+          "elevation_gain": 238.0,
+          "moving_time": 7586.0
         }
       },
       "VirtualRide": {
@@ -91892,6 +91919,15 @@
           "distance": 34672.7,
           "elevation_gain": 255.0,
           "moving_time": 3624.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18078572647"
+          ],
+          "count": 1,
+          "distance": 43550.1,
+          "elevation_gain": 269.0,
+          "moving_time": 5517.0
         }
       },
       "Walk": {
@@ -92150,7 +92186,7 @@
       }
     }
   },
-  "generated_at": "2026-04-11T15:22:59.656861+00:00",
+  "generated_at": "2026-04-12T15:26:38.140387+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",

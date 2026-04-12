@@ -67753,5 +67753,31 @@
     "start_date_local": "2026-04-10T14:22:27Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 42510.0,
+    "elevation_gain": 238.0,
+    "id": "18071456943",
+    "moving_time": 7586.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-11T13:33:43Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 43550.1,
+    "elevation_gain": 269.0,
+    "id": "18078572647",
+    "moving_time": 5517.0,
+    "name": "Zwift - Going Coastal in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-12T12:21:09Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
