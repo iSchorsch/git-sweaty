@@ -46951,6 +46951,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18120677261",
       "year": 2026
+    },
+    {
+      "date": "2026-04-16",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18133971425",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-17",
+      "hour": 6,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18141393674",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-17",
+      "hour": 10,
+      "name": "Zwift - Toefield Tornado in New York",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18142323511",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -91548,6 +91575,24 @@
           "distance": 25939.5,
           "elevation_gain": 86.0,
           "moving_time": 4613.0
+        },
+        "2026-04-16": {
+          "activity_ids": [
+            "18133971425"
+          ],
+          "count": 1,
+          "distance": 25879.6,
+          "elevation_gain": 88.0,
+          "moving_time": 4598.0
+        },
+        "2026-04-17": {
+          "activity_ids": [
+            "18141393674"
+          ],
+          "count": 1,
+          "distance": 11474.7,
+          "elevation_gain": 29.0,
+          "moving_time": 2143.0
         }
       },
       "VirtualRide": {
@@ -91982,6 +92027,15 @@
           "distance": 43550.1,
           "elevation_gain": 269.0,
           "moving_time": 5517.0
+        },
+        "2026-04-17": {
+          "activity_ids": [
+            "18142323511"
+          ],
+          "count": 1,
+          "distance": 30418.3,
+          "elevation_gain": 161.0,
+          "moving_time": 3611.0
         }
       },
       "Walk": {
@@ -92240,7 +92294,7 @@
       }
     }
   },
-  "generated_at": "2026-04-16T16:15:39.331821+00:00",
+  "generated_at": "2026-04-17T15:48:08.532545+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",

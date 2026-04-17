@@ -67818,5 +67818,44 @@
     "start_date_local": "2026-04-15T07:26:21Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 25879.6,
+    "elevation_gain": 88.0,
+    "id": "18133971425",
+    "moving_time": 4598.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-16T07:33:54Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 11474.7,
+    "elevation_gain": 29.0,
+    "id": "18141393674",
+    "moving_time": 2143.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-17T06:40:24Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 30418.3,
+    "elevation_gain": 161.0,
+    "id": "18142323511",
+    "moving_time": 3611.0,
+    "name": "Zwift - Toefield Tornado in New York",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-17T10:29:32Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
