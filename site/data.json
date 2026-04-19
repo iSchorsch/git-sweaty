@@ -46987,6 +46987,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18157498543",
       "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 13,
+      "name": "Zwift - Aerobic Builds",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18171644293",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -92054,6 +92063,15 @@
           "distance": 30418.3,
           "elevation_gain": 161.0,
           "moving_time": 3611.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18171644293"
+          ],
+          "count": 1,
+          "distance": 45732.2,
+          "elevation_gain": 395.0,
+          "moving_time": 5416.0
         }
       },
       "Walk": {
@@ -92312,7 +92330,7 @@
       }
     }
   },
-  "generated_at": "2026-04-18T15:28:09.428330+00:00",
+  "generated_at": "2026-04-19T15:28:04.144866+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",

@@ -67870,5 +67870,18 @@
     "start_date_local": "2026-04-18T12:15:51Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 45732.2,
+    "elevation_gain": 395.0,
+    "id": "18171644293",
+    "moving_time": 5416.0,
+    "name": "Zwift - Aerobic Builds",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-19T13:03:31Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
