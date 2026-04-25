@@ -47000,7 +47000,7 @@
     {
       "date": "2026-04-21",
       "hour": 7,
-      "name": "Morning Ride",
+      "name": "Arbeitsweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18202263439",
@@ -47009,7 +47009,7 @@
     {
       "date": "2026-04-22",
       "hour": 7,
-      "name": "Morning Ride",
+      "name": "Arbeitsweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18216488959",
@@ -47018,10 +47018,28 @@
     {
       "date": "2026-04-23",
       "hour": 7,
-      "name": "Morning Ride",
+      "name": "Arbeitsweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18227197799",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-24",
+      "hour": 11,
+      "name": "CardioCheck",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18241411115",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 12,
+      "name": "Zwift - Over-Unders & Over-ATS",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18250753778",
       "year": 2026
     }
   ],
@@ -91674,6 +91692,15 @@
           "distance": 26003.1,
           "elevation_gain": 110.0,
           "moving_time": 4807.0
+        },
+        "2026-04-24": {
+          "activity_ids": [
+            "18241411115"
+          ],
+          "count": 1,
+          "distance": 15809.2,
+          "elevation_gain": 85.0,
+          "moving_time": 2919.0
         }
       },
       "VirtualRide": {
@@ -92126,6 +92153,15 @@
           "distance": 45732.2,
           "elevation_gain": 395.0,
           "moving_time": 5416.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "18250753778"
+          ],
+          "count": 1,
+          "distance": 36015.6,
+          "elevation_gain": 238.0,
+          "moving_time": 4052.0
         }
       },
       "Walk": {
@@ -92384,7 +92420,7 @@
       }
     }
   },
-  "generated_at": "2026-04-24T15:57:30.231557+00:00",
+  "generated_at": "2026-04-25T15:31:04.178230+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
