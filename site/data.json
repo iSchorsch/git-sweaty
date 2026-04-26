@@ -47041,6 +47041,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18250753778",
       "year": 2026
+    },
+    {
+      "date": "2026-04-26",
+      "hour": 10,
+      "name": "Zwift - Tempo w/ Bursts",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18262141872",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -92162,6 +92171,15 @@
           "distance": 36015.6,
           "elevation_gain": 238.0,
           "moving_time": 4052.0
+        },
+        "2026-04-26": {
+          "activity_ids": [
+            "18262141872"
+          ],
+          "count": 1,
+          "distance": 34262.8,
+          "elevation_gain": 286.0,
+          "moving_time": 4238.0
         }
       },
       "Walk": {
@@ -92420,7 +92438,7 @@
       }
     }
   },
-  "generated_at": "2026-04-25T15:31:04.178230+00:00",
+  "generated_at": "2026-04-26T15:33:02.418923+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",

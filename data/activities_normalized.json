@@ -67948,5 +67948,18 @@
     "start_date_local": "2026-04-25T12:34:40Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 34262.8,
+    "elevation_gain": 286.0,
+    "id": "18262141872",
+    "moving_time": 4238.0,
+    "name": "Zwift - Tempo w/ Bursts",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-26T10:08:59Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
