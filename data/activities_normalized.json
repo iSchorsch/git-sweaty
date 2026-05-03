@@ -68039,5 +68039,31 @@
     "start_date_local": "2026-05-01T14:01:08Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 92669.5,
+    "elevation_gain": 463.0,
+    "id": "18348875155",
+    "moving_time": 11795.0,
+    "name": "Nordrunde \u00fcber Kremmen #1 2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-01T16:07:04Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 98639.4,
+    "elevation_gain": 439.0,
+    "id": "18359096828",
+    "moving_time": 11995.0,
+    "name": "Nach P\u00e4wesin an die Kuchentheke #2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-03T10:24:07Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
