@@ -68117,5 +68117,18 @@
     "start_date_local": "2026-05-06T14:11:11Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 31579.5,
+    "elevation_gain": 220.0,
+    "id": "18411928705",
+    "moving_time": 3610.0,
+    "name": "Zwift - Coast to Coast in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-07T13:54:15Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
