@@ -47167,6 +47167,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18411928705",
       "year": 2026
+    },
+    {
+      "date": "2026-05-08",
+      "hour": 13,
+      "name": "Zwift - Ocean Lava Cliffside Loop in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18424945343",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -92397,6 +92406,15 @@
           "distance": 31579.5,
           "elevation_gain": 220.0,
           "moving_time": 3610.0
+        },
+        "2026-05-08": {
+          "activity_ids": [
+            "18424945343"
+          ],
+          "count": 1,
+          "distance": 29113.6,
+          "elevation_gain": 205.0,
+          "moving_time": 3609.0
         }
       },
       "Walk": {
@@ -92664,7 +92682,7 @@
       }
     }
   },
-  "generated_at": "2026-05-07T16:31:20.825853+00:00",
+  "generated_at": "2026-05-08T16:07:44.926805+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
