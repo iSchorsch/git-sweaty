@@ -47185,6 +47185,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18438235322",
       "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 16,
+      "name": "Spaziergang am Nachmittag",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18440933621",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-10",
+      "hour": 10,
+      "name": "Nach P\u00e4wesin an die Kuchentheke #3",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18452487294",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -91909,6 +91927,15 @@
           "distance": 25890.4,
           "elevation_gain": 102.0,
           "moving_time": 4912.0
+        },
+        "2026-05-10": {
+          "activity_ids": [
+            "18452487294"
+          ],
+          "count": 1,
+          "distance": 98428.8,
+          "elevation_gain": 428.0,
+          "moving_time": 12076.0
         }
       },
       "VirtualRide": {
@@ -92696,11 +92723,20 @@
           "distance": 2998.0,
           "elevation_gain": 23.8,
           "moving_time": 2646.0
+        },
+        "2026-05-09": {
+          "activity_ids": [
+            "18440933621"
+          ],
+          "count": 1,
+          "distance": 2950.4,
+          "elevation_gain": 14.4,
+          "moving_time": 2393.0
         }
       }
     }
   },
-  "generated_at": "2026-05-09T15:39:49.542464+00:00",
+  "generated_at": "2026-05-10T15:41:28.037579+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
