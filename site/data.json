@@ -47212,6 +47212,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18464006947",
       "year": 2026
+    },
+    {
+      "date": "2026-05-11",
+      "hour": 17,
+      "name": "Spaziergang am Nachmittag",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18467342992",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 14,
+      "name": "Zwift - Yumezi Grit in Makuri Islands",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18477167388",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -92478,6 +92496,15 @@
           "distance": 32334.4,
           "elevation_gain": 108.0,
           "moving_time": 3608.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18477167388"
+          ],
+          "count": 1,
+          "distance": 27694.5,
+          "elevation_gain": 309.0,
+          "moving_time": 3614.0
         }
       },
       "Walk": {
@@ -92750,11 +92777,20 @@
           "distance": 2950.4,
           "elevation_gain": 14.4,
           "moving_time": 2393.0
+        },
+        "2026-05-11": {
+          "activity_ids": [
+            "18467342992"
+          ],
+          "count": 1,
+          "distance": 1622.2,
+          "elevation_gain": 14.4,
+          "moving_time": 1329.0
         }
       }
     }
   },
-  "generated_at": "2026-05-11T17:16:37.910240+00:00",
+  "generated_at": "2026-05-12T17:01:52.736765+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
