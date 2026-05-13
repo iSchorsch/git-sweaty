@@ -68221,5 +68221,18 @@
     "start_date_local": "2026-05-12T14:36:05Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 31378.6,
+    "elevation_gain": 223.0,
+    "id": "18490102503",
+    "moving_time": 3613.0,
+    "name": "Zwift - Turf N Surf in Makuri Islands",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-13T13:27:57Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

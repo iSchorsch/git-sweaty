@@ -47230,6 +47230,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18477167388",
       "year": 2026
+    },
+    {
+      "date": "2026-05-13",
+      "hour": 13,
+      "name": "Zwift - Turf N Surf in Makuri Islands",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18490102503",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -92505,6 +92514,15 @@
           "distance": 27694.5,
           "elevation_gain": 309.0,
           "moving_time": 3614.0
+        },
+        "2026-05-13": {
+          "activity_ids": [
+            "18490102503"
+          ],
+          "count": 1,
+          "distance": 31378.6,
+          "elevation_gain": 223.0,
+          "moving_time": 3613.0
         }
       },
       "Walk": {
@@ -92790,7 +92808,7 @@
       }
     }
   },
-  "generated_at": "2026-05-12T17:01:52.736765+00:00",
+  "generated_at": "2026-05-13T17:05:52.091023+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
