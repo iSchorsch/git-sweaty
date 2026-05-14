@@ -68234,5 +68234,31 @@
     "start_date_local": "2026-05-13T13:27:57Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 29598.7,
+    "elevation_gain": 323.0,
+    "id": "18504089436",
+    "moving_time": 3616.0,
+    "name": "Zwift - Double Span Spin in New York",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-14T14:16:25Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 2562.0,
+    "elevation_gain": 15.6,
+    "id": "18506619701",
+    "moving_time": 1958.0,
+    "name": "Spaziergang am Nachmittag",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-14T16:05:09Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
