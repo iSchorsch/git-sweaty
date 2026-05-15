@@ -68260,5 +68260,18 @@
     "start_date_local": "2026-05-14T16:05:09Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 98767.4,
+    "elevation_gain": 522.0,
+    "id": "18516150958",
+    "moving_time": 11705.0,
+    "name": "Nach P\u00e4wesin an die Kuchentheke #4",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-15T10:31:18Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
