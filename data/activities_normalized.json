@@ -68273,5 +68273,18 @@
     "start_date_local": "2026-05-15T10:31:18Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 33329.9,
+    "elevation_gain": 159.0,
+    "id": "18529052732",
+    "moving_time": 3611.0,
+    "name": "Zwift - Bon Voyage in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-16T13:52:24Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
