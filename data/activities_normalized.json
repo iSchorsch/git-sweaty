@@ -68286,5 +68286,31 @@
     "start_date_local": "2026-05-16T13:52:24Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 92642.3,
+    "elevation_gain": 572.0,
+    "id": "18542746807",
+    "moving_time": 10967.0,
+    "name": "Nordrunde \u00fcber Kremmen #2 2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-17T11:35:38Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 2541.2,
+    "elevation_gain": 13.6,
+    "id": "18544879623",
+    "moving_time": 1754.0,
+    "name": "Spaziergang am Nachmittag",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-17T16:55:10Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

@@ -47275,6 +47275,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18529052732",
       "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 11,
+      "name": "Nordrunde \u00fcber Kremmen #2 2026",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18542746807",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 16,
+      "name": "Spaziergang am Nachmittag",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18544879623",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -92017,6 +92035,15 @@
           "distance": 98767.4,
           "elevation_gain": 522.0,
           "moving_time": 11705.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18542746807"
+          ],
+          "count": 1,
+          "distance": 92642.3,
+          "elevation_gain": 572.0,
+          "moving_time": 10967.0
         }
       },
       "VirtualRide": {
@@ -92876,11 +92903,20 @@
           "distance": 2562.0,
           "elevation_gain": 15.6,
           "moving_time": 1958.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18544879623"
+          ],
+          "count": 1,
+          "distance": 2541.2,
+          "elevation_gain": 13.6,
+          "moving_time": 1754.0
         }
       }
     }
   },
-  "generated_at": "2026-05-16T15:45:56.518138+00:00",
+  "generated_at": "2026-05-17T15:48:20.245236+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
