@@ -47302,6 +47302,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18556753868",
       "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18571867759",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18583547163",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18583612796",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -92062,6 +92089,25 @@
           "distance": 25852.5,
           "elevation_gain": 91.0,
           "moving_time": 4546.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18571867759"
+          ],
+          "count": 1,
+          "distance": 28454.3,
+          "elevation_gain": 103.0,
+          "moving_time": 5047.0
+        },
+        "2026-05-20": {
+          "activity_ids": [
+            "18583547163",
+            "18583612796"
+          ],
+          "count": 2,
+          "distance": 15432.0,
+          "elevation_gain": 48.0,
+          "moving_time": 2890.0
         }
       },
       "VirtualRide": {
@@ -92934,7 +92980,7 @@
       }
     }
   },
-  "generated_at": "2026-05-19T17:32:52.794191+00:00",
+  "generated_at": "2026-05-20T17:48:57.646025+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
