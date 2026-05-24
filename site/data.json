@@ -47356,6 +47356,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18609590149",
       "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 9,
+      "name": "Easy nach Fehrbellin #1 2026",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18620786819",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -92144,6 +92153,15 @@
           "distance": 33447.0,
           "elevation_gain": 128.0,
           "moving_time": 11161.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18620786819"
+          ],
+          "count": 1,
+          "distance": 120139.0,
+          "elevation_gain": 540.0,
+          "moving_time": 13919.0
         }
       },
       "VirtualRide": {
@@ -93034,7 +93052,7 @@
       }
     }
   },
-  "generated_at": "2026-05-22T17:01:28.988878+00:00",
+  "generated_at": "2026-05-24T15:53:28.090079+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",

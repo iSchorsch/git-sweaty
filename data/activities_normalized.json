@@ -68403,5 +68403,18 @@
     "start_date_local": "2026-05-22T16:07:27Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 120139.0,
+    "elevation_gain": 540.0,
+    "id": "18620786819",
+    "moving_time": 13919.0,
+    "name": "Easy nach Fehrbellin #1 2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-23T09:02:20Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
