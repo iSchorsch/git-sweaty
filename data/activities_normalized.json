@@ -68416,5 +68416,31 @@
     "start_date_local": "2026-05-23T09:02:20Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 115683.0,
+    "elevation_gain": 695.0,
+    "id": "18637525053",
+    "moving_time": 16157.0,
+    "name": "Easy2P\u00e4wesin-Pfingstsonntag",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-24T08:41:04Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 92613.5,
+    "elevation_gain": 519.0,
+    "id": "18647772291",
+    "moving_time": 11043.0,
+    "name": "Nordrunde \u00fcber Kremmen #3 2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-25T12:02:07Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
