@@ -47455,6 +47455,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18770821994",
       "year": 2026
+    },
+    {
+      "date": "2026-06-05",
+      "hour": 13,
+      "name": "Zwift - Sand And Sequoias in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18796115574",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-05",
+      "hour": 16,
+      "name": "Fahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18797820869",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -92324,6 +92342,15 @@
           "distance": 101002.0,
           "elevation_gain": 331.0,
           "moving_time": 13821.0
+        },
+        "2026-06-05": {
+          "activity_ids": [
+            "18797820869"
+          ],
+          "count": 1,
+          "distance": 3671.5,
+          "elevation_gain": 16.0,
+          "moving_time": 705.0
         }
       },
       "VirtualRide": {
@@ -92902,6 +92929,15 @@
           "distance": 30792.4,
           "elevation_gain": 167.0,
           "moving_time": 3606.0
+        },
+        "2026-06-05": {
+          "activity_ids": [
+            "18796115574"
+          ],
+          "count": 1,
+          "distance": 33013.7,
+          "elevation_gain": 195.0,
+          "moving_time": 3609.0
         }
       },
       "Walk": {
@@ -93232,7 +93268,7 @@
       }
     }
   },
-  "generated_at": "2026-06-03T18:39:05.230571+00:00",
+  "generated_at": "2026-06-05T17:06:46.285319+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
