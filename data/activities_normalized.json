@@ -68566,10 +68566,23 @@
     "elevation_gain": 16.0,
     "id": "18797820869",
     "moving_time": 705.0,
-    "name": "Fahrt am Nachmittag",
+    "name": "Zur Bank",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-06-05T16:42:49Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 116937.0,
+    "elevation_gain": 724.0,
+    "id": "18810087986",
+    "moving_time": 14463.0,
+    "name": "Fahrt am Morgen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-06T09:50:56Z",
     "type": "Ride",
     "year": 2026
   }
