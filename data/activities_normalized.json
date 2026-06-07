@@ -68579,10 +68579,23 @@
     "elevation_gain": 724.0,
     "id": "18810087986",
     "moving_time": 14463.0,
-    "name": "Fahrt am Morgen",
+    "name": "Easy2Fehrbellin #2 2026",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-06-06T09:50:56Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 61380.7,
+    "elevation_gain": 255.0,
+    "id": "18824551514",
+    "moving_time": 16081.0,
+    "name": "Sternfahrt 2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-07T08:55:31Z",
     "type": "Ride",
     "year": 2026
   }
