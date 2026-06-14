@@ -68650,5 +68650,18 @@
     "start_date_local": "2026-06-11T07:30:58Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 37942.9,
+    "elevation_gain": 290.0,
+    "id": "18916119669",
+    "moving_time": 5463.0,
+    "name": "ERT Norwegen Tag 1 Stavanger -> Lysebotn",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-14T10:30:04Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
