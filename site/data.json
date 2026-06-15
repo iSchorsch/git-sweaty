@@ -47536,6 +47536,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18916119669",
       "year": 2026
+    },
+    {
+      "date": "2026-06-15",
+      "hour": 9,
+      "name": "ERT Norwegen Tag 2 Lysebotn -> Bykle",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18930645027",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -92477,6 +92486,15 @@
           "distance": 37942.9,
           "elevation_gain": 290.0,
           "moving_time": 5463.0
+        },
+        "2026-06-15": {
+          "activity_ids": [
+            "18930645027"
+          ],
+          "count": 1,
+          "distance": 118828.0,
+          "elevation_gain": 2519.0,
+          "moving_time": 19962.0
         }
       },
       "VirtualRide": {
@@ -93394,7 +93412,7 @@
       }
     }
   },
-  "generated_at": "2026-06-14T16:15:42.985148+00:00",
+  "generated_at": "2026-06-15T18:59:14.417416+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",

@@ -68663,5 +68663,18 @@
     "start_date_local": "2026-06-14T10:30:04Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 118828.0,
+    "elevation_gain": 2519.0,
+    "id": "18930645027",
+    "moving_time": 19962.0,
+    "name": "ERT Norwegen Tag 2 Lysebotn -> Bykle",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-15T09:15:05Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
