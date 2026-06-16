@@ -68676,5 +68676,18 @@
     "start_date_local": "2026-06-15T09:15:05Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 114425.0,
+    "elevation_gain": 1362.0,
+    "id": "18943238862",
+    "moving_time": 16947.0,
+    "name": "ERT Norwegen Tag 3 Bykle -> R\u00f8ldal",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-16T09:12:48Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
