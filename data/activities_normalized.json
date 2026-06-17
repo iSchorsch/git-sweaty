@@ -68689,5 +68689,18 @@
     "start_date_local": "2026-06-16T09:12:48Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 83541.7,
+    "elevation_gain": 1425.0,
+    "id": "18957259029",
+    "moving_time": 13274.0,
+    "name": "ERT Norwegen Tag 4 R\u00f8ldal -> Sk\u00e5nevik",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-17T09:12:56Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

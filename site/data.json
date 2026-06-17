@@ -47554,6 +47554,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18943238862",
       "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 9,
+      "name": "ERT Norwegen Tag 4 R\u00f8ldal -> Sk\u00e5nevik",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18957259029",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -92513,6 +92522,15 @@
           "distance": 114425.0,
           "elevation_gain": 1362.0,
           "moving_time": 16947.0
+        },
+        "2026-06-17": {
+          "activity_ids": [
+            "18957259029"
+          ],
+          "count": 1,
+          "distance": 83541.7,
+          "elevation_gain": 1425.0,
+          "moving_time": 13274.0
         }
       },
       "VirtualRide": {
@@ -93430,7 +93448,7 @@
       }
     }
   },
-  "generated_at": "2026-06-16T18:50:49.406183+00:00",
+  "generated_at": "2026-06-17T17:42:38.809364+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
