@@ -47563,6 +47563,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18957259029",
       "year": 2026
+    },
+    {
+      "date": "2026-06-18",
+      "hour": 9,
+      "name": "ERT Norwegen Tag 5 Sk\u00e5nevik -> Kvanndar",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18972691952",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -92531,6 +92540,15 @@
           "distance": 83541.7,
           "elevation_gain": 1425.0,
           "moving_time": 13274.0
+        },
+        "2026-06-18": {
+          "activity_ids": [
+            "18972691952"
+          ],
+          "count": 1,
+          "distance": 135491.0,
+          "elevation_gain": 1596.0,
+          "moving_time": 19729.0
         }
       },
       "VirtualRide": {
@@ -93448,7 +93466,7 @@
       }
     }
   },
-  "generated_at": "2026-06-17T17:42:38.809364+00:00",
+  "generated_at": "2026-06-18T17:52:55.622258+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",

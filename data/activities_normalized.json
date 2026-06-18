@@ -68702,5 +68702,18 @@
     "start_date_local": "2026-06-17T09:12:56Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 135491.0,
+    "elevation_gain": 1596.0,
+    "id": "18972691952",
+    "moving_time": 19729.0,
+    "name": "ERT Norwegen Tag 5 Sk\u00e5nevik -> Kvanndar",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-18T09:11:11Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
