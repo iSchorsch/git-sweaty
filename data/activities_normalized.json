@@ -68715,5 +68715,18 @@
     "start_date_local": "2026-06-18T09:11:11Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 109220.0,
+    "elevation_gain": 1819.9,
+    "id": "18984271023",
+    "moving_time": 17405.0,
+    "name": "ERT Norwegen Tag 6 Kvanndar -> Vik\u00f8ri",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-19T09:12:38Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
