@@ -68728,5 +68728,18 @@
     "start_date_local": "2026-06-19T09:12:38Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 104367.0,
+    "elevation_gain": 1570.0,
+    "id": "18997270279",
+    "moving_time": 16306.0,
+    "name": "ERT Norwegen Tag 7 Vik\u00f8ri -> Vassende S\u00f8re",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-20T09:24:29Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
