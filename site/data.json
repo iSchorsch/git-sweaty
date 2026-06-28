@@ -47644,6 +47644,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19085885163",
       "year": 2026
+    },
+    {
+      "date": "2026-06-27",
+      "hour": 17,
+      "name": "Fahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19091102002",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-28",
+      "hour": 13,
+      "name": "Zwift - Turf N Surf in Makuri Islands",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19098013303",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -92667,6 +92685,15 @@
           "distance": 6713.5,
           "elevation_gain": 31.0,
           "moving_time": 1325.0
+        },
+        "2026-06-27": {
+          "activity_ids": [
+            "19091102002"
+          ],
+          "count": 1,
+          "distance": 12278.1,
+          "elevation_gain": 46.0,
+          "moving_time": 2388.0
         }
       },
       "VirtualRide": {
@@ -93263,6 +93290,15 @@
           "distance": 33387.4,
           "elevation_gain": 233.0,
           "moving_time": 3608.0
+        },
+        "2026-06-28": {
+          "activity_ids": [
+            "19098013303"
+          ],
+          "count": 1,
+          "distance": 29143.3,
+          "elevation_gain": 220.0,
+          "moving_time": 3610.0
         }
       },
       "Walk": {
@@ -93602,7 +93638,7 @@
       }
     }
   },
-  "generated_at": "2026-06-27T15:58:03.523316+00:00",
+  "generated_at": "2026-06-28T16:02:26.656384+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
