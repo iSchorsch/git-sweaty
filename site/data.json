@@ -47662,6 +47662,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19098013303",
       "year": 2026
+    },
+    {
+      "date": "2026-06-28",
+      "hour": 15,
+      "name": "Zum Badesee ohne Badeerlaubnis",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19101778650",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -92694,6 +92703,15 @@
           "distance": 12278.1,
           "elevation_gain": 46.0,
           "moving_time": 2388.0
+        },
+        "2026-06-28": {
+          "activity_ids": [
+            "19101778650"
+          ],
+          "count": 1,
+          "distance": 44358.9,
+          "elevation_gain": 236.0,
+          "moving_time": 7107.0
         }
       },
       "VirtualRide": {
@@ -93638,7 +93656,7 @@
       }
     }
   },
-  "generated_at": "2026-06-28T16:02:26.656384+00:00",
+  "generated_at": "2026-06-29T17:26:11.161530+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",

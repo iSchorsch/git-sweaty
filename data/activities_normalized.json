@@ -68845,5 +68845,18 @@
     "start_date_local": "2026-06-28T13:33:20Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 44358.9,
+    "elevation_gain": 236.0,
+    "id": "19101778650",
+    "moving_time": 7107.0,
+    "name": "Zum Badesee ohne Badeerlaubnis",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-28T15:54:13Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
