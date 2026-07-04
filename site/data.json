@@ -47707,6 +47707,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19154411361",
       "year": 2026
+    },
+    {
+      "date": "2026-07-04",
+      "hour": 14,
+      "name": "Zwift - Croissant in France",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19176151769",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -93389,6 +93398,15 @@
           "distance": 29143.3,
           "elevation_gain": 220.0,
           "moving_time": 3610.0
+        },
+        "2026-07-04": {
+          "activity_ids": [
+            "19176151769"
+          ],
+          "count": 1,
+          "distance": 32475.5,
+          "elevation_gain": 179.0,
+          "moving_time": 3612.0
         }
       },
       "Walk": {
@@ -93728,7 +93746,7 @@
       }
     }
   },
-  "generated_at": "2026-07-03T16:18:03.551580+00:00",
+  "generated_at": "2026-07-04T15:52:37.155168+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
