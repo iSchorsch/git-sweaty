@@ -47675,7 +47675,7 @@
     {
       "date": "2026-06-29",
       "hour": 7,
-      "name": "Fahrt am Morgen",
+      "name": "Arbeitsweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/19119035643",
@@ -47684,7 +47684,7 @@
     {
       "date": "2026-06-30",
       "hour": 7,
-      "name": "Fahrt am Morgen",
+      "name": "Arbeitsweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/19128591733",
@@ -47693,7 +47693,7 @@
     {
       "date": "2026-07-01",
       "hour": 7,
-      "name": "Morning Ride",
+      "name": "Arbeitsweg & Stadion",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/19140006605",
@@ -47702,7 +47702,7 @@
     {
       "date": "2026-07-02",
       "hour": 7,
-      "name": "Fahrt am Morgen",
+      "name": "Arbeitsweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/19154411361",
@@ -47715,6 +47715,15 @@
       "subtype": "VirtualRide",
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19176151769",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-05",
+      "hour": 14,
+      "name": "Zwift - Ocean Lava Cliffside Loop in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19189590886",
       "year": 2026
     }
   ],
@@ -93407,6 +93416,15 @@
           "distance": 32475.5,
           "elevation_gain": 179.0,
           "moving_time": 3612.0
+        },
+        "2026-07-05": {
+          "activity_ids": [
+            "19189590886"
+          ],
+          "count": 1,
+          "distance": 30216.9,
+          "elevation_gain": 278.0,
+          "moving_time": 3638.0
         }
       },
       "Walk": {
@@ -93746,7 +93764,7 @@
       }
     }
   },
-  "generated_at": "2026-07-04T15:52:37.155168+00:00",
+  "generated_at": "2026-07-05T15:59:09.400881+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
