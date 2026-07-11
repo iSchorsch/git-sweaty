@@ -69001,5 +69001,18 @@
     "start_date_local": "2026-07-10T13:22:54Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 92626.9,
+    "elevation_gain": 486.0,
+    "id": "19267306782",
+    "moving_time": 10639.0,
+    "name": "Nordrunde \u00fcber Kremmen #4 2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-11T09:56:04Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
