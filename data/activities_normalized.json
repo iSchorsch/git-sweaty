@@ -69131,5 +69131,18 @@
     "start_date_local": "2026-07-17T12:28:44Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 109752.0,
+    "elevation_gain": 604.0,
+    "id": "19363784723",
+    "moving_time": 14454.0,
+    "name": "Easy2Trebbin",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-18T09:14:20Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
