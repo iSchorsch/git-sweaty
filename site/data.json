@@ -47869,6 +47869,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19363784723",
       "year": 2026
+    },
+    {
+      "date": "2026-07-18",
+      "hour": 17,
+      "name": "Fahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19367571019",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-19",
+      "hour": 12,
+      "name": "Sonntags FAR #04-2026",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19375666368",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -93059,12 +93077,22 @@
         },
         "2026-07-18": {
           "activity_ids": [
-            "19363784723"
+            "19363784723",
+            "19367571019"
+          ],
+          "count": 2,
+          "distance": 118902.5,
+          "elevation_gain": 644.0,
+          "moving_time": 16085.0
+        },
+        "2026-07-19": {
+          "activity_ids": [
+            "19375666368"
           ],
           "count": 1,
-          "distance": 109752.0,
-          "elevation_gain": 604.0,
-          "moving_time": 14454.0
+          "distance": 54892.4,
+          "elevation_gain": 182.0,
+          "moving_time": 6397.0
         }
       },
       "VirtualRide": {
@@ -94036,7 +94064,7 @@
       }
     }
   },
-  "generated_at": "2026-07-18T15:42:53.303508+00:00",
+  "generated_at": "2026-07-19T15:44:00.920611+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",

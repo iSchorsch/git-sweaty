@@ -69144,5 +69144,31 @@
     "start_date_local": "2026-07-18T09:14:20Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 9150.5,
+    "elevation_gain": 40.0,
+    "id": "19367571019",
+    "moving_time": 1631.0,
+    "name": "Fahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-18T17:01:10Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 54892.4,
+    "elevation_gain": 182.0,
+    "id": "19375666368",
+    "moving_time": 6397.0,
+    "name": "Sonntags FAR #04-2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-19T12:13:01Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
