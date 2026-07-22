@@ -69209,5 +69209,18 @@
     "start_date_local": "2026-07-20T19:45:50Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 26062.6,
+    "elevation_gain": 106.0,
+    "id": "19407393870",
+    "moving_time": 4596.0,
+    "name": "Fahrt am Morgen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-21T07:33:08Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
