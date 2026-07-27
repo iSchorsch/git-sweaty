@@ -69287,5 +69287,18 @@
     "start_date_local": "2026-07-25T10:01:55Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 31895.4,
+    "elevation_gain": 211.0,
+    "id": "19480894934",
+    "moving_time": 5047.0,
+    "name": "Mittagsradfahrt",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-25T11:57:09Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
