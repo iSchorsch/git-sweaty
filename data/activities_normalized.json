@@ -69365,5 +69365,18 @@
     "start_date_local": "2026-07-30T07:34:19Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 28016.4,
+    "elevation_gain": 263.0,
+    "id": "19556353284",
+    "moving_time": 3609.0,
+    "name": "Zwift - Roule Ma Poule in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-01T14:50:09Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
