@@ -47981,7 +47981,7 @@
     {
       "date": "2026-07-27",
       "hour": 7,
-      "name": "Fahrt am Morgen",
+      "name": "Arbeitsweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/19489615366",
@@ -47990,7 +47990,7 @@
     {
       "date": "2026-07-28",
       "hour": 7,
-      "name": "Fahrt am Morgen",
+      "name": "Arbeitsweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/19502356470",
@@ -48008,7 +48008,7 @@
     {
       "date": "2026-07-29",
       "hour": 7,
-      "name": "Fahrt am Morgen",
+      "name": "Arbeitsweg & Angelika",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/19518931527",
@@ -48017,10 +48017,19 @@
     {
       "date": "2026-07-30",
       "hour": 7,
-      "name": "Fahrt am Morgen",
+      "name": "Arbeitsweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/19531045603",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-31",
+      "hour": 8,
+      "name": "zum Kardiologen",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19560917361",
       "year": 2026
     },
     {
@@ -48030,6 +48039,24 @@
       "subtype": "VirtualRide",
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19556353284",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-01",
+      "hour": 18,
+      "name": "mit Lea zum Zollpackhof",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19560917073",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-02",
+      "hour": 10,
+      "name": "Nach P\u00e4wesin an die Kuchentheke #5",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19569813060",
       "year": 2026
     }
   ],
@@ -93332,6 +93359,33 @@
           "distance": 25937.1,
           "elevation_gain": 85.0,
           "moving_time": 4515.0
+        },
+        "2026-07-31": {
+          "activity_ids": [
+            "19560917361"
+          ],
+          "count": 1,
+          "distance": 17886.6,
+          "elevation_gain": 93.0,
+          "moving_time": 3348.0
+        },
+        "2026-08-01": {
+          "activity_ids": [
+            "19560917073"
+          ],
+          "count": 1,
+          "distance": 35549.4,
+          "elevation_gain": 194.0,
+          "moving_time": 5988.0
+        },
+        "2026-08-02": {
+          "activity_ids": [
+            "19569813060"
+          ],
+          "count": 1,
+          "distance": 98371.8,
+          "elevation_gain": 522.0,
+          "moving_time": 12042.0
         }
       },
       "VirtualRide": {
@@ -94312,7 +94366,7 @@
       }
     }
   },
-  "generated_at": "2026-08-01T15:50:11.552243+00:00",
+  "generated_at": "2026-08-02T15:50:29.541869+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
