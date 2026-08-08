@@ -48112,6 +48112,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19628691982",
       "year": 2026
+    },
+    {
+      "date": "2026-08-08",
+      "hour": 10,
+      "name": "Nach P\u00e4wesin an die Kuchentheke #6",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19654095360",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -93477,6 +93486,15 @@
           "distance": 26074.0,
           "elevation_gain": 101.0,
           "moving_time": 4655.0
+        },
+        "2026-08-08": {
+          "activity_ids": [
+            "19654095360"
+          ],
+          "count": 1,
+          "distance": 98529.2,
+          "elevation_gain": 529.0,
+          "moving_time": 11450.0
         }
       },
       "VirtualRide": {
@@ -94466,7 +94484,7 @@
       }
     }
   },
-  "generated_at": "2026-08-07T15:41:49.849740+00:00",
+  "generated_at": "2026-08-08T15:17:24.672520+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
