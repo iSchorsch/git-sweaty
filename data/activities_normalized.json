@@ -69508,5 +69508,18 @@
     "start_date_local": "2026-08-08T10:45:42Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-09",
+    "distance": 115940.0,
+    "elevation_gain": 579.0,
+    "id": "19668280208",
+    "moving_time": 15445.0,
+    "name": "Easy2Fehrbellin #4 2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-09T09:32:22Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
