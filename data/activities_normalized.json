@@ -69560,5 +69560,31 @@
     "start_date_local": "2026-08-12T07:07:17Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-13",
+    "distance": 27566.3,
+    "elevation_gain": 98.0,
+    "id": "19727613816",
+    "moving_time": 4916.0,
+    "name": "Fahrt am Morgen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-13T07:35:59Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-14",
+    "distance": 30565.5,
+    "elevation_gain": 290.0,
+    "id": "19737896632",
+    "moving_time": 3629.0,
+    "name": "Zwift - London Flat in London",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-14T12:50:13Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
