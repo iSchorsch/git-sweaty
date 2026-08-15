@@ -69586,5 +69586,18 @@
     "start_date_local": "2026-08-14T12:50:13Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 56561.1,
+    "elevation_gain": 388.0,
+    "id": "19750589119",
+    "moving_time": 7992.0,
+    "name": "S\u00fcdseerunde",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-15T09:44:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
