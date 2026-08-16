@@ -69599,5 +69599,18 @@
     "start_date_local": "2026-08-15T09:44:54Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 55785.5,
+    "elevation_gain": 343.0,
+    "id": "19767301213",
+    "moving_time": 7136.0,
+    "name": "Sonntags-FAR #05-2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-16T13:47:05Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
