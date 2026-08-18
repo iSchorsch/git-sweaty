@@ -69612,5 +69612,18 @@
     "start_date_local": "2026-08-16T13:47:05Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 32151.2,
+    "elevation_gain": 253.0,
+    "id": "19794351237",
+    "moving_time": 3621.0,
+    "name": "Zwift - Innsbruckring in Innsbruck",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-18T14:55:09Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
