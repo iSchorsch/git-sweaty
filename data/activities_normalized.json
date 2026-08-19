@@ -69625,5 +69625,31 @@
     "start_date_local": "2026-08-18T14:55:09Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 35588.6,
+    "elevation_gain": 147.0,
+    "id": "19799361705",
+    "moving_time": 6514.0,
+    "name": "Mittagsradfahrt",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-18T11:37:10Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 30835.5,
+    "elevation_gain": 144.0,
+    "id": "19810246027",
+    "moving_time": 3645.0,
+    "name": "Zwift - Waisted 8 in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-19T16:04:59Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
