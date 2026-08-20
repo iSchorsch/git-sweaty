@@ -69651,5 +69651,18 @@
     "start_date_local": "2026-08-19T16:04:59Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-20",
+    "distance": 34366.4,
+    "elevation_gain": 157.0,
+    "id": "19823997354",
+    "moving_time": 3804.0,
+    "name": "Zwift - Triple Flat Loops in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-20T15:07:48Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
