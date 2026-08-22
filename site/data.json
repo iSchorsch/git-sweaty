@@ -48238,6 +48238,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19835256875",
       "year": 2026
+    },
+    {
+      "date": "2026-08-22",
+      "hour": 10,
+      "name": "Fahrt am Morgen",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19846999972",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-22",
+      "hour": 14,
+      "name": "Zwift - D\u00f9n Dash in Scotland",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19850808206",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -93693,6 +93711,15 @@
           "distance": 34279.7,
           "elevation_gain": 121.0,
           "moving_time": 5931.0
+        },
+        "2026-08-22": {
+          "activity_ids": [
+            "19846999972"
+          ],
+          "count": 1,
+          "distance": 6609.9,
+          "elevation_gain": 30.0,
+          "moving_time": 1203.0
         }
       },
       "VirtualRide": {
@@ -94379,6 +94406,15 @@
           "distance": 34366.4,
           "elevation_gain": 157.0,
           "moving_time": 3804.0
+        },
+        "2026-08-22": {
+          "activity_ids": [
+            "19850808206"
+          ],
+          "count": 1,
+          "distance": 33329.3,
+          "elevation_gain": 351.0,
+          "moving_time": 3701.0
         }
       },
       "Walk": {
@@ -94718,7 +94754,7 @@
       }
     }
   },
-  "generated_at": "2026-08-21T15:21:55.266780+00:00",
+  "generated_at": "2026-08-22T15:09:05.065549+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",

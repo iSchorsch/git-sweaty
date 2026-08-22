@@ -69677,5 +69677,31 @@
     "start_date_local": "2026-08-21T10:29:47Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 6609.9,
+    "elevation_gain": 30.0,
+    "id": "19846999972",
+    "moving_time": 1203.0,
+    "name": "Fahrt am Morgen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-22T10:11:27Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 33329.3,
+    "elevation_gain": 351.0,
+    "id": "19850808206",
+    "moving_time": 3701.0,
+    "name": "Zwift - D\u00f9n Dash in Scotland",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-22T14:30:39Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
