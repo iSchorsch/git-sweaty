@@ -69768,5 +69768,18 @@
     "start_date_local": "2026-08-27T07:35:50Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 29303.0,
+    "elevation_gain": 213.0,
+    "id": "19947792664",
+    "moving_time": 3609.0,
+    "name": "Zwift - Ocean Lava Cliffside Loop in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-29T12:35:21Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
