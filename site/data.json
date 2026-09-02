@@ -48337,6 +48337,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19992540690",
       "year": 2026
+    },
+    {
+      "date": "2026-09-02",
+      "hour": 7,
+      "name": "Fahrt am Morgen",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20007635939",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -93864,6 +93873,15 @@
           "distance": 26270.3,
           "elevation_gain": 109.0,
           "moving_time": 4672.0
+        },
+        "2026-09-02": {
+          "activity_ids": [
+            "20007635939"
+          ],
+          "count": 1,
+          "distance": 24963.5,
+          "elevation_gain": 93.0,
+          "moving_time": 4288.0
         }
       },
       "VirtualRide": {
@@ -94916,7 +94934,7 @@
       }
     }
   },
-  "generated_at": "2026-09-01T18:01:51.248138+00:00",
+  "generated_at": "2026-09-02T18:12:26.010304+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
