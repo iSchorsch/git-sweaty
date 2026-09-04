@@ -48323,7 +48323,7 @@
     {
       "date": "2026-08-31",
       "hour": 7,
-      "name": "Fahrt am Morgen",
+      "name": "Arbeitsweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/19978104275",
@@ -48332,7 +48332,7 @@
     {
       "date": "2026-09-01",
       "hour": 7,
-      "name": "Fahrt am Morgen",
+      "name": "Arbeitsweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/19992540690",
@@ -48341,10 +48341,28 @@
     {
       "date": "2026-09-02",
       "hour": 7,
-      "name": "Fahrt am Morgen",
+      "name": "Arbeitsweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/20007635939",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-03",
+      "hour": 7,
+      "name": "Arbeitsweg",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20024878301",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-04",
+      "hour": 9,
+      "name": "Kardio & IFA",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20035040868",
       "year": 2026
     }
   ],
@@ -93882,6 +93900,24 @@
           "distance": 24963.5,
           "elevation_gain": 93.0,
           "moving_time": 4288.0
+        },
+        "2026-09-03": {
+          "activity_ids": [
+            "20024878301"
+          ],
+          "count": 1,
+          "distance": 27442.6,
+          "elevation_gain": 131.0,
+          "moving_time": 4813.0
+        },
+        "2026-09-04": {
+          "activity_ids": [
+            "20035040868"
+          ],
+          "count": 1,
+          "distance": 20155.6,
+          "elevation_gain": 135.0,
+          "moving_time": 3689.0
         }
       },
       "VirtualRide": {
@@ -94934,7 +94970,7 @@
       }
     }
   },
-  "generated_at": "2026-09-03T18:10:13.398605+00:00",
+  "generated_at": "2026-09-04T17:52:36.580173+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
