@@ -70015,5 +70015,31 @@
     "start_date_local": "2026-09-17T07:33:26Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-18",
+    "distance": 24458.2,
+    "elevation_gain": 75.0,
+    "id": "20231158269",
+    "moving_time": 4264.0,
+    "name": "Fahrt am Morgen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-18T06:59:19Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 28609.6,
+    "elevation_gain": 320.0,
+    "id": "20242794693",
+    "moving_time": 3620.0,
+    "name": "Zwift - The Muckle Yin in Scotland",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-19T16:41:07Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
