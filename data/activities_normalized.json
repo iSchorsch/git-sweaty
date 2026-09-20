@@ -70041,5 +70041,31 @@
     "start_date_local": "2026-09-19T16:41:07Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-20",
+    "distance": 30224.9,
+    "elevation_gain": 176.0,
+    "id": "20254913048",
+    "moving_time": 3612.0,
+    "name": "Zwift - Mech Isle Mayhem in Makuri Islands",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-20T14:07:52Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-20",
+    "distance": 3748.9,
+    "elevation_gain": 132.6,
+    "id": "20256507637",
+    "moving_time": 3038.0,
+    "name": "Spaziergang am Nachmittag",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-20T15:52:57Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
