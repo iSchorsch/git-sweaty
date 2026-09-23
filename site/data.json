@@ -48535,6 +48535,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20285734483",
       "year": 2026
+    },
+    {
+      "date": "2026-09-23",
+      "hour": 14,
+      "name": "Zwift - Bon Voyage in France",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20296342995",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -94947,6 +94956,15 @@
           "distance": 30224.9,
           "elevation_gain": 176.0,
           "moving_time": 3612.0
+        },
+        "2026-09-23": {
+          "activity_ids": [
+            "20296342995"
+          ],
+          "count": 1,
+          "distance": 31837.4,
+          "elevation_gain": 156.0,
+          "moving_time": 3618.0
         }
       },
       "Walk": {
@@ -95304,7 +95322,7 @@
       }
     }
   },
-  "generated_at": "2026-09-22T18:23:27.211907+00:00",
+  "generated_at": "2026-09-23T18:42:58.474927+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
