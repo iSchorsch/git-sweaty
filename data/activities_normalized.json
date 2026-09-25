@@ -70119,5 +70119,31 @@
     "start_date_local": "2026-09-23T14:19:20Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-24",
+    "distance": 26042.6,
+    "elevation_gain": 100.0,
+    "id": "20314926824",
+    "moving_time": 4473.0,
+    "name": "Fahrt am Morgen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-24T07:34:29Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-25",
+    "distance": 32491.4,
+    "elevation_gain": 108.0,
+    "id": "20324641372",
+    "moving_time": 3603.0,
+    "name": "Zwift - Big Flat 8 in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-25T15:36:05Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
