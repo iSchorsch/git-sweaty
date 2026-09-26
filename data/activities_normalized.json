@@ -70074,7 +70074,7 @@
     "elevation_gain": 110.0,
     "id": "20269459614",
     "moving_time": 4505.0,
-    "name": "Fahrt am Morgen",
+    "name": "Arbeitsweg",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-09-21T07:35:22Z",
@@ -70100,7 +70100,7 @@
     "elevation_gain": 123.0,
     "id": "20285734483",
     "moving_time": 5093.0,
-    "name": "Fahrt am Morgen",
+    "name": "Arbeitsweg & Stadion",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-09-22T07:35:53Z",
@@ -70126,7 +70126,7 @@
     "elevation_gain": 100.0,
     "id": "20314926824",
     "moving_time": 4473.0,
-    "name": "Fahrt am Morgen",
+    "name": "Arbeitsweg",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-09-24T07:34:29Z",
@@ -70144,6 +70144,19 @@
     "raw_type": "VirtualRide",
     "start_date_local": "2026-09-25T15:36:05Z",
     "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-26",
+    "distance": 55702.0,
+    "elevation_gain": 256.0,
+    "id": "20335788155",
+    "moving_time": 6985.0,
+    "name": "Samstags-FAR #07-2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-26T11:42:52Z",
+    "type": "Ride",
     "year": 2026
   }
 ]
