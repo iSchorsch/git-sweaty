@@ -48575,7 +48575,7 @@
     {
       "date": "2026-09-27",
       "hour": 6,
-      "name": "Fahrt am Morgen",
+      "name": "Top-Verpfleger beim BMW Berlin Marathon 2026",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/20353321777",
@@ -48588,6 +48588,15 @@
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/20353636432",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-28",
+      "hour": 14,
+      "name": "Zwift - Downtown Titans in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20364021155",
       "year": 2026
     }
   ],
@@ -95047,6 +95056,15 @@
           "distance": 32491.4,
           "elevation_gain": 108.0,
           "moving_time": 3603.0
+        },
+        "2026-09-28": {
+          "activity_ids": [
+            "20364021155"
+          ],
+          "count": 1,
+          "distance": 30666.1,
+          "elevation_gain": 366.0,
+          "moving_time": 3607.0
         }
       },
       "Walk": {
@@ -95404,7 +95422,7 @@
       }
     }
   },
-  "generated_at": "2026-09-27T18:44:10.698781+00:00",
+  "generated_at": "2026-09-28T20:54:11.383552+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",

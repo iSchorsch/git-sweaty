@@ -70165,7 +70165,7 @@
     "elevation_gain": 213.0,
     "id": "20353321777",
     "moving_time": 13754.0,
-    "name": "Fahrt am Morgen",
+    "name": "Top-Verpfleger beim BMW Berlin Marathon 2026",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-09-27T06:31:39Z",
@@ -70183,6 +70183,19 @@
     "raw_type": "Ride",
     "start_date_local": "2026-09-27T17:05:01Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-28",
+    "distance": 30666.1,
+    "elevation_gain": 366.0,
+    "id": "20364021155",
+    "moving_time": 3607.0,
+    "name": "Zwift - Downtown Titans in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-28T14:20:06Z",
+    "type": "VirtualRide",
     "year": 2026
   }
 ]
