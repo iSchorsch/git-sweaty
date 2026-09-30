@@ -70210,5 +70210,44 @@
     "start_date_local": "2026-09-28T16:15:23Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 43269.8,
+    "elevation_gain": 176.0,
+    "id": "20388901252",
+    "moving_time": 7925.0,
+    "name": "Fahrt am Morgen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-29T07:13:24Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 31936.4,
+    "elevation_gain": 263.0,
+    "id": "20392495786",
+    "moving_time": 5516.0,
+    "name": "Fahrt am Morgen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-30T09:09:53Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 24646.1,
+    "elevation_gain": 131.0,
+    "id": "20396558106",
+    "moving_time": 4158.0,
+    "name": "Fahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-30T17:08:05Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
