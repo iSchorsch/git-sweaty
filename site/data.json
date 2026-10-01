@@ -48634,6 +48634,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20396558106",
       "year": 2026
+    },
+    {
+      "date": "2026-10-01",
+      "hour": 14,
+      "name": "Zwift - Urumaze in Makuri Islands",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20406910558",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-01",
+      "hour": 16,
+      "name": "Spaziergang am Nachmittag",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20407880975",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -95129,6 +95147,15 @@
           "distance": 30666.1,
           "elevation_gain": 366.0,
           "moving_time": 3607.0
+        },
+        "2026-10-01": {
+          "activity_ids": [
+            "20406910558"
+          ],
+          "count": 1,
+          "distance": 27681.1,
+          "elevation_gain": 255.0,
+          "moving_time": 3608.0
         }
       },
       "Walk": {
@@ -95482,11 +95509,20 @@
           "distance": 3748.9,
           "elevation_gain": 132.6,
           "moving_time": 3038.0
+        },
+        "2026-10-01": {
+          "activity_ids": [
+            "20407880975"
+          ],
+          "count": 1,
+          "distance": 2566.1,
+          "elevation_gain": 103.0,
+          "moving_time": 2290.0
         }
       }
     }
   },
-  "generated_at": "2026-09-30T19:42:35.774745+00:00",
+  "generated_at": "2026-10-01T19:57:09.608919+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",

@@ -70249,5 +70249,31 @@
     "start_date_local": "2026-09-30T17:08:05Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-01",
+    "distance": 27681.1,
+    "elevation_gain": 255.0,
+    "id": "20406910558",
+    "moving_time": 3608.0,
+    "name": "Zwift - Urumaze in Makuri Islands",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-01T14:38:08Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-01",
+    "distance": 2566.1,
+    "elevation_gain": 103.0,
+    "id": "20407880975",
+    "moving_time": 2290.0,
+    "name": "Spaziergang am Nachmittag",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-01T16:10:10Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
