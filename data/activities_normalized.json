@@ -70275,5 +70275,18 @@
     "start_date_local": "2026-10-01T16:10:10Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-02",
+    "distance": 30076.4,
+    "elevation_gain": 269.0,
+    "id": "20419764763",
+    "moving_time": 3620.0,
+    "name": "Zwift - Outer Scotland in Scotland",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-02T14:07:47Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
