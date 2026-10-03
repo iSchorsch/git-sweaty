@@ -70288,5 +70288,18 @@
     "start_date_local": "2026-10-02T14:07:47Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 55632.4,
+    "elevation_gain": 189.0,
+    "id": "20432183435",
+    "moving_time": 6882.0,
+    "name": "Samstags-FAR #08-2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-03T11:58:24Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
