@@ -70301,5 +70301,31 @@
     "start_date_local": "2026-10-03T11:58:24Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 3517.2,
+    "elevation_gain": 19.0,
+    "id": "20438587248",
+    "moving_time": 566.0,
+    "name": "Abendradfahrt",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-03T18:07:57Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 25609.8,
+    "elevation_gain": 301.0,
+    "id": "20447391966",
+    "moving_time": 3610.0,
+    "name": "Zwift - WhatYumeziWe'reLost? in Makuri Islands",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-04T13:52:04Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
