@@ -48688,6 +48688,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20447391966",
       "year": 2026
+    },
+    {
+      "date": "2026-10-05",
+      "hour": 14,
+      "name": "Zwift - Double Espresso in Paris",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20460003901",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-05",
+      "hour": 17,
+      "name": "Fahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20464338022",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -94426,6 +94444,15 @@
           "distance": 59149.6,
           "elevation_gain": 208.0,
           "moving_time": 7448.0
+        },
+        "2026-10-05": {
+          "activity_ids": [
+            "20464338022"
+          ],
+          "count": 1,
+          "distance": 7486.6,
+          "elevation_gain": 34.0,
+          "moving_time": 1291.0
         }
       },
       "VirtualRide": {
@@ -95220,6 +95247,15 @@
           "distance": 25609.8,
           "elevation_gain": 301.0,
           "moving_time": 3610.0
+        },
+        "2026-10-05": {
+          "activity_ids": [
+            "20460003901"
+          ],
+          "count": 1,
+          "distance": 30654.6,
+          "elevation_gain": 221.0,
+          "moving_time": 3817.0
         }
       },
       "Walk": {
@@ -95586,7 +95622,7 @@
       }
     }
   },
-  "generated_at": "2026-10-04T18:26:19.878327+00:00",
+  "generated_at": "2026-10-05T21:42:54.595349+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
