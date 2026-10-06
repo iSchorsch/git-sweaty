@@ -70347,10 +70347,23 @@
     "elevation_gain": 34.0,
     "id": "20464338022",
     "moving_time": 1291.0,
-    "name": "Fahrt am Nachmittag",
+    "name": "Zu Lea in den Garten",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-10-05T17:01:22Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-06",
+    "distance": 26189.4,
+    "elevation_gain": 93.0,
+    "id": "20478912432",
+    "moving_time": 4536.0,
+    "name": "Fahrt am Morgen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-06T07:36:10Z",
     "type": "Ride",
     "year": 2026
   }
