@@ -48710,7 +48710,7 @@
     {
       "date": "2026-10-06",
       "hour": 7,
-      "name": "Fahrt am Morgen",
+      "name": "Arbeitsweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/20478912432",
@@ -48719,7 +48719,7 @@
     {
       "date": "2026-10-07",
       "hour": 7,
-      "name": "Fahrt am Morgen",
+      "name": "Arbeitsweg & Papa",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/20493421099",
@@ -48728,7 +48728,7 @@
     {
       "date": "2026-10-08",
       "hour": 7,
-      "name": "Fahrt am Morgen",
+      "name": "Arbeitsweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/20504678038",
@@ -48741,6 +48741,15 @@
       "subtype": "VirtualRide",
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20515660261",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-10",
+      "hour": 12,
+      "name": "Zwift - Big Flat 8 in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20526538987",
       "year": 2026
     }
   ],
@@ -95328,6 +95337,15 @@
           "distance": 31930.1,
           "elevation_gain": 270.0,
           "moving_time": 3647.0
+        },
+        "2026-10-10": {
+          "activity_ids": [
+            "20526538987"
+          ],
+          "count": 1,
+          "distance": 34214.8,
+          "elevation_gain": 109.0,
+          "moving_time": 3666.0
         }
       },
       "Walk": {
@@ -95694,7 +95712,7 @@
       }
     }
   },
-  "generated_at": "2026-10-09T19:52:37.231093+00:00",
+  "generated_at": "2026-10-10T19:01:03.148919+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
