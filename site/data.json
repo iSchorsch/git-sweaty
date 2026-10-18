@@ -48805,6 +48805,33 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20610437125",
       "year": 2026
+    },
+    {
+      "date": "2026-10-17",
+      "hour": 12,
+      "name": "Mittagspaziergang",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20630255264",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-17",
+      "hour": 16,
+      "name": "Spaziergang am Nachmittag",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20630255385",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-18",
+      "hour": 10,
+      "name": "Spaziergang am Morgen",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20633061883",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -95816,11 +95843,30 @@
           "distance": 2554.0,
           "elevation_gain": 68.2,
           "moving_time": 1761.0
+        },
+        "2026-10-17": {
+          "activity_ids": [
+            "20630255264",
+            "20630255385"
+          ],
+          "count": 2,
+          "distance": 12540.4,
+          "elevation_gain": 97.6,
+          "moving_time": 10910.0
+        },
+        "2026-10-18": {
+          "activity_ids": [
+            "20633061883"
+          ],
+          "count": 1,
+          "distance": 8103.8,
+          "elevation_gain": 95.6,
+          "moving_time": 6580.0
         }
       }
     }
   },
-  "generated_at": "2026-10-17T17:35:16.135060+00:00",
+  "generated_at": "2026-10-18T17:38:04.733718+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
