@@ -48827,7 +48827,7 @@
     {
       "date": "2026-10-18",
       "hour": 10,
-      "name": "Spaziergang am Morgen",
+      "name": "Spaziergang am Morgen V\u00f6lkerschlacht bei Klaus",
       "subtype": "Walk",
       "type": "Walk",
       "url": "https://www.strava.com/activities/20633061883",
@@ -48836,7 +48836,7 @@
     {
       "date": "2026-10-19",
       "hour": 7,
-      "name": "Fahrt am Morgen",
+      "name": "Arbeitsweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/20649112202",
@@ -48845,7 +48845,7 @@
     {
       "date": "2026-10-20",
       "hour": 7,
-      "name": "Fahrt am Morgen",
+      "name": "Arbeitsweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/20665079483",
@@ -48854,7 +48854,7 @@
     {
       "date": "2026-10-21",
       "hour": 7,
-      "name": "Fahrt am Morgen",
+      "name": "Arbeitsweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/20676990999",
@@ -48863,7 +48863,7 @@
     {
       "date": "2026-10-22",
       "hour": 7,
-      "name": "Fahrt am Morgen",
+      "name": "Arbeitsweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/20689775455",
@@ -48872,10 +48872,19 @@
     {
       "date": "2026-10-23",
       "hour": 6,
-      "name": "Fahrt am Morgen",
+      "name": "Arbeitsweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/20701374235",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-24",
+      "hour": 14,
+      "name": "Zwift - Ocean Lava Cliffside Loop in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20712911524",
       "year": 2026
     }
   ],
@@ -95562,6 +95571,15 @@
           "distance": 29625.2,
           "elevation_gain": 370.0,
           "moving_time": 3613.0
+        },
+        "2026-10-24": {
+          "activity_ids": [
+            "20712911524"
+          ],
+          "count": 1,
+          "distance": 28252.7,
+          "elevation_gain": 210.0,
+          "moving_time": 3604.0
         }
       },
       "Walk": {
@@ -95956,7 +95974,7 @@
       }
     }
   },
-  "generated_at": "2026-10-23T18:46:36.937641+00:00",
+  "generated_at": "2026-10-24T17:42:01.358589+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
