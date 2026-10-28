@@ -48922,6 +48922,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20753750847",
       "year": 2026
+    },
+    {
+      "date": "2026-10-28",
+      "hour": 16,
+      "name": "Spaziergang am Nachmittag",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20766468976",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -96042,11 +96051,20 @@
           "distance": 2501.3,
           "elevation_gain": 107.0,
           "moving_time": 2178.0
+        },
+        "2026-10-28": {
+          "activity_ids": [
+            "20766468976"
+          ],
+          "count": 1,
+          "distance": 2556.5,
+          "elevation_gain": 84.4,
+          "moving_time": 2034.0
         }
       }
     }
   },
-  "generated_at": "2026-10-27T19:43:53.064074+00:00",
+  "generated_at": "2026-10-28T19:57:22.068582+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
