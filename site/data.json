@@ -48958,6 +48958,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20792144775",
       "year": 2026
+    },
+    {
+      "date": "2026-10-31",
+      "hour": 15,
+      "name": "Zwift - Nappvang Glow in Video",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20805601904",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -95698,6 +95707,15 @@
           "distance": 32010.4,
           "elevation_gain": 145.0,
           "moving_time": 3610.0
+        },
+        "2026-10-31": {
+          "activity_ids": [
+            "20805601904"
+          ],
+          "count": 1,
+          "distance": 27526.3,
+          "elevation_gain": 371.0,
+          "moving_time": 3615.0
         }
       },
       "Walk": {
@@ -96110,7 +96128,7 @@
       }
     }
   },
-  "generated_at": "2026-10-30T19:46:24.405577+00:00",
+  "generated_at": "2026-10-31T18:54:03.473098+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",

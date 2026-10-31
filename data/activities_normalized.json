@@ -70717,5 +70717,18 @@
     "start_date_local": "2026-10-30T15:07:32Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 27526.3,
+    "elevation_gain": 371.0,
+    "id": "20805601904",
+    "moving_time": 3615.0,
+    "name": "Zwift - Nappvang Glow in Video",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-31T15:11:19Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
