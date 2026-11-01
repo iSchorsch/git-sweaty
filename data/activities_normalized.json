@@ -70730,5 +70730,18 @@
     "start_date_local": "2026-10-31T15:11:19Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 32830.8,
+    "elevation_gain": 194.0,
+    "id": "20814806961",
+    "moving_time": 3631.0,
+    "name": "Zwift - Georg's Meetup on California Dreamin' in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-01T10:45:02Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
