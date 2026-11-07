@@ -49021,6 +49021,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20882763166",
       "year": 2026
+    },
+    {
+      "date": "2026-11-07",
+      "hour": 13,
+      "name": "Zwift - Sa Calobra in Video",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20895155178",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -95824,6 +95833,15 @@
           "distance": 31863.0,
           "elevation_gain": 251.0,
           "moving_time": 3633.0
+        },
+        "2026-11-07": {
+          "activity_ids": [
+            "20895155178"
+          ],
+          "count": 1,
+          "distance": 11749.3,
+          "elevation_gain": 781.0,
+          "moving_time": 3608.0
         }
       },
       "Walk": {
@@ -96236,7 +96254,7 @@
       }
     }
   },
-  "generated_at": "2026-11-06T20:38:39.319481+00:00",
+  "generated_at": "2026-11-07T19:08:12.869574+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
