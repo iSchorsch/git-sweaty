@@ -48980,7 +48980,7 @@
     {
       "date": "2026-11-02",
       "hour": 9,
-      "name": "Fahrt am Morgen",
+      "name": "Arbeitsweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/20829941542",
@@ -49029,6 +49029,24 @@
       "subtype": "VirtualRide",
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20895155178",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-08",
+      "hour": 10,
+      "name": "Zwift - Georg Lutz's Meetup on California Roll in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20905077990",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-08",
+      "hour": 14,
+      "name": "Spaziergang am Nachmittag",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20909435303",
       "year": 2026
     }
   ],
@@ -95842,6 +95860,15 @@
           "distance": 11749.3,
           "elevation_gain": 781.0,
           "moving_time": 3608.0
+        },
+        "2026-11-08": {
+          "activity_ids": [
+            "20905077990"
+          ],
+          "count": 1,
+          "distance": 35468.8,
+          "elevation_gain": 128.0,
+          "moving_time": 3626.0
         }
       },
       "Walk": {
@@ -96250,11 +96277,20 @@
           "distance": 2556.5,
           "elevation_gain": 84.4,
           "moving_time": 2034.0
+        },
+        "2026-11-08": {
+          "activity_ids": [
+            "20909435303"
+          ],
+          "count": 1,
+          "distance": 2566.5,
+          "elevation_gain": 67.8,
+          "moving_time": 1926.0
         }
       }
     }
   },
-  "generated_at": "2026-11-07T19:08:12.869574+00:00",
+  "generated_at": "2026-11-08T19:13:35.012598+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
