@@ -49075,6 +49075,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20983949361",
       "year": 2026
+    },
+    {
+      "date": "2026-11-15",
+      "hour": 12,
+      "name": "Zwift - Molten Momentum in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20996434472",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-15",
+      "hour": 14,
+      "name": "Spaziergang am Nachmittag",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20997744422",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -95923,6 +95941,15 @@
           "distance": 34489.2,
           "elevation_gain": 109.0,
           "moving_time": 3613.0
+        },
+        "2026-11-15": {
+          "activity_ids": [
+            "20996434472"
+          ],
+          "count": 1,
+          "distance": 30396.4,
+          "elevation_gain": 270.0,
+          "moving_time": 3608.0
         }
       },
       "Walk": {
@@ -96340,11 +96367,20 @@
           "distance": 2566.5,
           "elevation_gain": 67.8,
           "moving_time": 1926.0
+        },
+        "2026-11-15": {
+          "activity_ids": [
+            "20997744422"
+          ],
+          "count": 1,
+          "distance": 2700.2,
+          "elevation_gain": 112.2,
+          "moving_time": 2293.0
         }
       }
     }
   },
-  "generated_at": "2026-11-14T19:32:47.597691+00:00",
+  "generated_at": "2026-11-15T20:00:44.412064+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",

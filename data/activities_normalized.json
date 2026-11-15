@@ -70886,5 +70886,31 @@
     "start_date_local": "2026-11-14T12:59:12Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-15",
+    "distance": 30396.4,
+    "elevation_gain": 270.0,
+    "id": "20996434472",
+    "moving_time": 3608.0,
+    "name": "Zwift - Molten Momentum in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-15T12:06:59Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-15",
+    "distance": 2700.2,
+    "elevation_gain": 112.2,
+    "id": "20997744422",
+    "moving_time": 2293.0,
+    "name": "Spaziergang am Nachmittag",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-15T14:00:48Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
