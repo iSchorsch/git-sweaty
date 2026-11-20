@@ -49097,7 +49097,7 @@
     {
       "date": "2026-11-16",
       "hour": 7,
-      "name": "Fahrt am Morgen",
+      "name": "Arbeitsweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/21011329169",
@@ -49106,7 +49106,7 @@
     {
       "date": "2026-11-17",
       "hour": 7,
-      "name": "Fahrt am Morgen",
+      "name": "Arbeitsweg Regen aufm Heimweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/21023438398",
@@ -49115,7 +49115,7 @@
     {
       "date": "2026-11-17",
       "hour": 20,
-      "name": "Abendradfahrt",
+      "name": "Heimweg mit Bahn",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/21025842390",
@@ -49124,7 +49124,7 @@
     {
       "date": "2026-11-18",
       "hour": 7,
-      "name": "Fahrt am Morgen",
+      "name": "Arbeitsweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/21036933918",
@@ -49133,7 +49133,7 @@
     {
       "date": "2026-11-19",
       "hour": 7,
-      "name": "Fahrt am Morgen",
+      "name": "Arbeitsweg",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/21048603907",
@@ -96462,7 +96462,7 @@
       }
     }
   },
-  "generated_at": "2026-11-19T22:30:03.492909+00:00",
+  "generated_at": "2026-11-20T22:01:35.680454+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/653810",
   "repo": "iSchorsch/git-sweaty",
