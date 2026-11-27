@@ -71042,5 +71042,31 @@
     "start_date_local": "2026-11-25T07:35:28Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 26391.7,
+    "elevation_gain": 87.0,
+    "id": "21140518904",
+    "moving_time": 4684.0,
+    "name": "Fahrt am Morgen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-26T07:35:29Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-27",
+    "distance": 29654.1,
+    "elevation_gain": 269.0,
+    "id": "21143660239",
+    "moving_time": 3610.0,
+    "name": "Zwift - Sacr\u00e9 Trois! in Paris",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-27T15:06:23Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
